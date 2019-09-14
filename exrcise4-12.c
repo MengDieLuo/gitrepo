@@ -15,7 +15,7 @@ int main(void)
 
     itoa(n,s);
 
-    printf("%s",s);
+    printf("%s\n",s);
 
     return 0;
 }
